@@ -45,12 +45,6 @@ Customer Churn Analysis/
 
 ---
 
-## 📸 Screenshots    
-
-Here's the code for the "Screenshots" section of your `README.md` file, tailored to your specifications. The images are assumed to be named `1.png` to `8.png` and located in the `Screenshots` folder. You can copy and paste this directly into your `README.md`:
-
----
-
 ## 📸 Screenshots
 
 Check out the stunning visualizations from the Customer Churn Data Analysis! 🌟 These screenshots showcase key insights from the project. 📷
